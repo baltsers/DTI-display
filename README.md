@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Original artifact | <https://sites.google.com/site/hpcaius/home/prj_display> |
+| Original artifact | <https://sourceforge.net/projects/stereo-display-dti> |
 | Imported from | the publications page |
 | Tool | `pubs2github` |
 
